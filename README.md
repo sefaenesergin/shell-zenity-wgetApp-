@@ -10,8 +10,8 @@
         <li><a href="#-i-parameter">-i Parameter </a></li>
         <li><a href="#limitrate-Parameter">limit-rate parameter</a></li>
         <li><a href="#-c-parameter">-c parameter</a></li>
-        <li><a href="#b-parameter">-b parameter</a></li>
-        <li><a href="#m-parameter">-m parameter</a></li>
+        <li><a href="#-b-parameter">-b parameter</a></li>
+        <li><a href="#-m-parameter">-m parameter</a></li>
 </ol>
 
 ## Installation and Run
