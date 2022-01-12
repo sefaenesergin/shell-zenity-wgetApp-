@@ -106,7 +106,7 @@ If this function is used, no URLs need be present on the command line. If there 
 
 
 ## YouTube URL for how to use this program
-[Linke](https://youtu.be/m5L0bEb4rm8) click that link.
+[Click](https://youtu.be/m5L0bEb4rm8) that link.
 
 ## Development and Tools Used
 - Developed on Ubuntu Linux with gnome terminal.
