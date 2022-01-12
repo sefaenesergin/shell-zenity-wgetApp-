@@ -28,10 +28,10 @@
   ``` 
   clone to locale with this code
 - ```shell
-  cd shop-shell
+  cd shell-zenity-wgetApp-
   ```
 - ```shell
-  bash shop-shell
+  bash shell-zenity-wgetApp-
   ```
   - we run our project. keep to read
 # Steps of Application
