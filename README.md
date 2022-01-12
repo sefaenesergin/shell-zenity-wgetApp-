@@ -109,5 +109,8 @@ If this function is used, no URLs need be present on the command line. If there 
 [Linke](asdasdasds) click that link.
 
 ## Development and Tools Used
-- Ubuntu Linux with... 
+- Developed on Ubuntu Linux with gnome terminal.
+- I used often nano editor.
+- Coded with Zenity and bash script.
+- Check my [LinkedIn](https://www.linkedin.com/in/sefa-enes-ergin/).
 - Contact me! <sefaenesergin@gmail.com>
