@@ -34,7 +34,7 @@ esac
 
 #assign variables
 opt1="i parametresi"
-opt2="limit-rate paramtresi"
+opt2="limit-rate parametresi"
 opt3="c parametresi"
 opt4="b parametresi"
 opt5="m parametresi"
