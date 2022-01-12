@@ -31,7 +31,7 @@
   cd shell-zenity-wgetApp-
   ```
 - ```shell
-  bash shell-zenity-wgetApp-
+  bash shell-zenity-wgetApp-.sh
   ```
   - we run our project. keep to read
 # Steps of Application
