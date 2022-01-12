@@ -35,24 +35,27 @@
   ```
   - we run our project. keep to read
 
-
 ## -i parameter
  <div align="center">
     <img src="sefafafafa" />
  </div> 
+ 
 ## limitrate parameter
  <div align="center">
     <img src="sefafafafa" />
- </div> 
- ## -c parameter
+ </div>
+ 
+## -c parameter
  <div align="center">
     <img src="sefafafafa" />
  </div> 
- ## -b parameter
+ 
+ 
+## -b parameter
  <div align="center">
     <img src="sefafafafa" />
  </div> 
- ## -m parameter
+## -m parameter
  <div align="center">
     <img src="sefafafafa" />
  </div> 
